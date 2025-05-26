@@ -1,6 +1,6 @@
 ![2](https://github.com/user-attachments/assets/cf536e1d-ed24-4dd0-95f7-0a38af452647)
 
-# 📱 EverWell
+# 📱💚 EverWell
 
 **EverWell** is a comprehensive and user-friendly Android mobile application designed to promote **health**, **independence**, **mental stimulation**, and **emotional well-being** among elderly and their caregivers.
 
